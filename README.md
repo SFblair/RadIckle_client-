@@ -14,4 +14,4 @@ IMPORTANT
 Make sure to run with a skyblock client or a fps client such as labymod or optfine
 To best fix the performance 
 
-There will be decompiler to make sure it is not a rat
+There will have a decompiler to make sure it is not a rat
